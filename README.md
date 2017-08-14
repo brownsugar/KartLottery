@@ -1,0 +1,2 @@
+# KartLottery
+KartRider lottery list.
